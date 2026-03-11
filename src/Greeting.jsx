@@ -5,7 +5,10 @@ const Greeting = () => {
     const greetings = {
         en: 'Hello',
         es: 'Hola',
-        fr: 'Bonjour'
+        fr: 'Bonjour',
+        de: 'Hallo',
+        it: 'Ciao',
+        pt: 'Olá'
     }
     return (
         <>
